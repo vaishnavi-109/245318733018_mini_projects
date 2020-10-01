@@ -10,8 +10,8 @@
 
 
 
-# Simple CRUD operations
-
+# Simple CRUD App
+Simple CRUD Application using Express as server, Node js as backend , MongoDb as database and Postman as frontend.
 
 ## Built With
 
