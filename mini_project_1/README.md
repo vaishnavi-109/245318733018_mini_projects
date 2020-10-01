@@ -35,18 +35,19 @@ Simple CRUD Application using Express as server, Node js as backend , MongoDb as
 
 ### Installation
 1. Clone the repo
-
+```
 git clone https://github.com/Jarvis4555/245318733018_mini_projects.git
-
+```
 2. Install NPM packages
-
+```
 npm install
-
+```
 
 
 ### Executing program
 
 
 - npm
-
+```
 npm run 
+```
