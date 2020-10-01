@@ -49,5 +49,5 @@ npm install
 
 - npm
 ```
-npm run 
+npm ru
 ```
